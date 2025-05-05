@@ -1,6 +1,3 @@
-Okay, here's a template for your `README.md` file. Remember to fill in the bracketed placeholders `[]` with your specific information and details.
-
-```markdown
 # Employee Tracker
 
 ## Description
