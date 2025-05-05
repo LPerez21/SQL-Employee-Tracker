@@ -35,7 +35,6 @@ The application provides the following core functionalities:
 
 **Bonus Features (If implemented):**
 
-*   [List any bonus features you implemented here, e.g.,]
     *   Update employee managers.
     *   View employees by manager.
     *   View employees by department.
@@ -102,7 +101,11 @@ You will be presented with a menu of options. Use the arrow keys to navigate and
 
 Watch the following video for a demonstration of the application's functionality:
 
-[Link to your walkthrough video here]
+(https://drive.google.com/file/d/1L8pv5D1VjDjPKTAZJBJkwj2KDcLq2res/view?usp=drive_link)
+
+## Screenshot
+
+![Start Application](./screenshot/Screenshot%202025-05-04%20212155.jpg)
 
 ## Technologies Used
 
